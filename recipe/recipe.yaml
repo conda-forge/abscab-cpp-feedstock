@@ -12,7 +12,7 @@ source:
   sha256: d7d4d8060117ac047ca7a3c5824f79cc7d8f42c538e542946650b188c7d2e145
 
 build:
-  number: 0
+  number: 1
   skip:
     # Windows can be supported, but skipping for simplicity
     - win
